@@ -1,6 +1,6 @@
-# Roulette
+# Buun Coffee App
 
-A simple Roulette App - bet any amount and either win or lose - casino owner should be able to log in and see the total wins / losses && how much money has been made || lost.
+
 
 ## How To Use:
   - Fork the repo
